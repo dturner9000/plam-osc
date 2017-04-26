@@ -1,1 +1,3 @@
 # plam-osc
+
+See wiki.
